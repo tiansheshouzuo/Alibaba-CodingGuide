@@ -1,12 +1,15 @@
-ï»¿# Alibaba-CodingGuide
-é˜¿é‡Œå·´å·´Javaå¼€å‘æ‰‹å†Œã€ç¼–ç¨‹è§„èŒƒ
+# Alibaba-CodingGuide
+°¢Àï°Í°ÍJava¿ª·¢ÊÖ²á¡¢±à³Ì¹æ·¶
 
-## 1ã€å‘½åè§„èŒƒ
-ç±»åé‡‡ç”¨UpperCamelCaseé£Žæ ¼ï¼Œéµå¾ªé©¼å³°å½¢å¼ï¼Œå¦‚Merge
-æ–¹æ³•åã€å‚æ•°åã€å±€éƒ¨å˜é‡åã€æˆå‘˜å˜é‡åä¸€å¾‹é‡‡ç”¨lowerCamelCaseé£Žæ ¼ï¼Œéµå¾ªé©¼å³°å½¢å¼ï¼Œå¦‚giveã€add
-å¸¸é‡å…¨éƒ¨å¤§å†™ï¼Œå•è¯ä¹‹é—´ç”¨ä¸‹åˆ’çº¿éš”å¼€ï¼Œå¦‚MAX_VALUE
-åŒ…åç»Ÿä¸€å°å†™ï¼Œç‚¹ä¸Žç‚¹ä¹‹é—´æœ‰ä¸”åªæœ‰ä¸€ä¸ªå•è¯ï¼Œå¦‚com.alibaba.ai
-æŽ¥å£ç±»ä¸­çš„æ–¹æ³•å’Œå±žæ€§ä¸è¦åŠ ä»»ä½•ä¿®é¥°ç¬¦ï¼Œå°½é‡ä¿æŒç®€æ´ï¼Œå¦‚void commit();
-æŽ¥å£å¯¹åº”çš„å®žçŽ°ç±»ï¼Œå‘½ä»¤ä»¥ImplåŽç¼€ç»“å°¾
+## 1¡¢ÃüÃû¹æ·¶
+1¡¢ÀàÃû²ÉÓÃUpperCamelCase·ç¸ñ£¬×ñÑ­ÍÕ·åÐÎÊ½£¬ÈçMerge
+2¡¢·½·¨Ãû¡¢²ÎÊýÃû¡¢¾Ö²¿±äÁ¿Ãû¡¢³ÉÔ±±äÁ¿ÃûÒ»ÂÉ²ÉÓÃlowerCamelCase·ç¸ñ£¬×ñÑ­ÍÕ·åÐÎÊ½£¬Èçgive¡¢add
+3¡¢³£Á¿È«²¿´óÐ´£¬µ¥´ÊÖ®¼äÓÃÏÂ»®Ïß¸ô¿ª£¬ÈçMAX_VALUE
+4¡¢°üÃûÍ³Ò»Ð¡Ð´£¬µãÓëµãÖ®¼äÓÐÇÒÖ»ÓÐÒ»¸öµ¥´Ê£¬Èçcom.alibaba.ai
+5¡¢½Ó¿ÚÀàÖÐµÄ·½·¨ºÍÊôÐÔ²»Òª¼ÓÈÎºÎÐÞÊÎ·û£¬¾¡Á¿±£³Ö¼ò½à£¬Èçvoid commit();
+6¡¢½Ó¿Ú¶ÔÓ¦µÄÊµÏÖÀà£¬ÃüÁîÒÔImplºó×º½áÎ²
 
-## 2ã€å¸¸é‡å®šä¹‰
+
+## 2¡¢³£Á¿¶¨Òå
+1¡¢³£Á¿Òª°´ÕÕÀà·Ö±ð´æ·ÅÔÚ²»Í¬µÄ³£Á¿ÀàÖÐ£¬Èç»º´æÀà´æ·ÅÔÚCacheConstsÏÂ£¬ÏµÍ³ÅäÖÃÏà¹ØµÄÀà´æ·ÅÔÚConfigConstsÏÂ
+2¡¢±äÁ¿ÔÚÒ»¶¨·¶Î§ÄÚ±ä»¯£¬ÔòÓÃenumÀà¶¨Òå
