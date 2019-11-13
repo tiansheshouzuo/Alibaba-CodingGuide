@@ -3,6 +3,7 @@
 
 ## 1、命名规范
 1、类名采用UpperCamelCase风格，遵循驼峰形式，如Merge
+<br>
 2、方法名、参数名、局部变量名、成员变量名一律采用lowerCamelCase风格，遵循驼峰形式，如give、add
 3、常量全部大写，单词之间用下划线隔开，如MAX_VALUE
 4、包名统一小写，点与点之间有且只有一个单词，如com.alibaba.ai
